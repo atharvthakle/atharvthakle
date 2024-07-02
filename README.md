@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
+<img align="center" alt="Coding" width="1000" src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg"/>
 <h2 align="center">Heyyo ! I am Atharv<br>Welcome to my profile ✨</h2>
 
 ###
